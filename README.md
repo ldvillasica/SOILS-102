@@ -1,6 +1,5 @@
-# SOILS-102
-This repo is for notes and other resources for SOILS 102 or Mineral Nutrition
+# Mineral Nutrition of Plants (SOILS 102)
 
-## New Updates Soon!
-
-[[Lesson 1.md]]
+## Chapter 1-Elements that Matter
+[[Lesson 1-Essentiality and Classification of Nutrients]]
+[[Lesson 2-Crop Nutrient Interaction]]
