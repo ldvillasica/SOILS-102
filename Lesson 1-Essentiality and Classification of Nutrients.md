@@ -19,8 +19,9 @@ This can be group into 4.  Primarily taken up by the plants in ionic (charge) fo
 > - Essential elements of atomic groups involved in enzymatic processes. 
 > - Assimilation by oxidation-reduction reactions
 
-> Forms taken up
-> - $CO_2$, $HCO^-_3$, $H_2O$, $O_2$, $NO^-_2$, $NH^+_4$, $N_2$, $SO^{2-}_4$, $SO_2$ ions from the soil solution, gases, from the atmosphere
+Forms taken up
+
+$CO_2$, $HCO^-_3$, $H_2O$, $O_2$, $NO^-_2$, $NH^+_4$, $N_2$, $SO^{2-}_4$, $SO_2$ ions from the soil solution, gases, from the atmosphere
 
 #### Group 2
 > - Esterification with alcohol groups. 
