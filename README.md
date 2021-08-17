@@ -1,2 +1,4 @@
 # SOILS-102
-This repo is for note sharing and updating.
+This repo is for notes and other resources for SOILS 102 or Mineral Nutrition
+
+## New Updates Soon!
