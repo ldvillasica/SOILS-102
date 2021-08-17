@@ -8,6 +8,6 @@
 ### Stimulation 
 > An increase in the need for a nutrient by the plant because of the increase in the level of another nutrient
 
-![[MuldersChart.pdf]]
+![MuldersChart.pdf](MuldersChart.pdf)
 
 Proceed to [[Lesson 3-Solute Pathway Entry]]
